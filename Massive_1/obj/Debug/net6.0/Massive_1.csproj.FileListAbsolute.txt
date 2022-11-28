@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\bin\Debug\net6.0\Massive_1.exe
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\bin\Debug\net6.0\Massive_1.deps.json
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\bin\Debug\net6.0\Massive_1.runtimeconfig.json
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\bin\Debug\net6.0\Massive_1.dll
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\bin\Debug\net6.0\ref\Massive_1.dll
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\bin\Debug\net6.0\Massive_1.pdb
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.dll
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\ref\Massive_1.dll
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.pdb
+C:\Users\Людмила\Desktop\Seminar5\Massive_1\obj\Debug\net6.0\Massive_1.genruntimeconfig.cache
