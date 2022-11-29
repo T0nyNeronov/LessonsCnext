@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\Seminar5\HW2\bin\Debug\net6.0\HW2.exe
+C:\Users\Людмила\Desktop\Seminar5\HW2\bin\Debug\net6.0\HW2.deps.json
+C:\Users\Людмила\Desktop\Seminar5\HW2\bin\Debug\net6.0\HW2.runtimeconfig.json
+C:\Users\Людмила\Desktop\Seminar5\HW2\bin\Debug\net6.0\HW2.dll
+C:\Users\Людмила\Desktop\Seminar5\HW2\bin\Debug\net6.0\ref\HW2.dll
+C:\Users\Людмила\Desktop\Seminar5\HW2\bin\Debug\net6.0\HW2.pdb
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.dll
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\ref\HW2.dll
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.pdb
+C:\Users\Людмила\Desktop\Seminar5\HW2\obj\Debug\net6.0\HW2.genruntimeconfig.cache
